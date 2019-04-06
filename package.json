@@ -1,0 +1,22 @@
+{
+  "name": "react-component-to-pdf",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "rxjs": "6.3.2",
+    "react": "16.5.0",
+    "react-dom": "16.5.0",
+    "prop-types": "15.6.2",
+    "@progress/kendo-drawing": "1.5.7",
+    "@progress/kendo-react-pdf": "2.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
